@@ -21,18 +21,14 @@ Incluye caja para registrar ventas e imprimir tickets en impresora térmica, ini
 
 ## Capturas de pantalla
 
-<p align="center">
-  <img src="docs/screenshots/pos.png" alt="Pantalla de venta" width="800">
-</p>
-
 | Pantalla | Descripción |
 |---|---|
-| ![Acceso](docs/screenshots/acceso.png) | Inicio de sesión |
-| ![POS](docs/screenshots/pos.png) | Punto de venta y carrito |
-| ![Inventario](docs/screenshots/inventario.png) | Gestión de productos y stock |
-| ![Historial](docs/screenshots/historial.png) | Historial de ventas y reversas |
-| ![Finanzas](docs/screenshots/finanzas.png) | Panel financiero y diagnóstico |
-| ![Auditoría](docs/screenshots/auditoria.png) | Bitácora de acciones |
+| ![Acceso](screenshots/loginpantallarrr.png) | Inicio de sesión |
+| ![POS](screenshots/cajapos1.png) | Punto de venta y carrito |
+| ![Inventario](screenshots/inventario1.png) | Gestión de productos y stock |
+| ![Historial](screenshots/historialacid1.png) | Historial de ventas y reversas |
+| ![Finanzas](screenshots/finanzasadmin1.png) | Panel financiero y diagnóstico |
+| ![Auditoría](screenshots/logs1audi.png) | Bitácora de acciones |
 
 ## Funcionalidades
 
