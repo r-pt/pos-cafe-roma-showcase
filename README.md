@@ -48,7 +48,7 @@ Incluye caja para registrar ventas e imprimir tickets en impresora térmica, ini
 - **Control de acceso:** las reglas de rol se validan en el servidor, no solo en la interfaz.
 - **Base de datos:** SQLite en modo WAL con migraciones versionadas. Antes de cada migración se genera un respaldo automático.
 - **Pruebas:** suites con Vitest y Supertest que cubren autenticación y control de acceso por rol, ventas y reversas, auditoría, CRUD de familias, cálculos financieros, comunicación con la impresora y persistencia tras reiniciar.
-- **Uso de IA:** la usé como apoyo para la integración con Google Sheets y para automatizar tareas repetitivas. Revisé cada parte para poder explicarla y mantenerla.
+- **Uso de IA:** la usé como apoyo para automatizar tareas repetitivas. Revisé cada parte para poder explicarla y mantenerla.
 
 ## Tecnologías
 
@@ -63,7 +63,7 @@ Incluye caja para registrar ventas e imprimir tickets en impresora térmica, ini
 
 ## Feedback
 
-Si tienes experiencia en sistemas POS, impresión térmica o integración con Google Sheets, agradezco cualquier comentario.
+Si tienes experiencia en sistemas POS, agradezco cualquier comentario.
 
 ## Autor
 
